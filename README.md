@@ -12,8 +12,12 @@ Dieses Repository enthält den Code für ein "Hello World"-Programm für den Kur
 - Öffnen der Kommandozeile
 - Navigieren in den entsprechenden Ordner
 - Ausführen des Programms mit "python main.py"
+
+![CMD](HelloWorldScreen.PNG)
 -------------------------------------------------------
 ### Oder:
 - Öffnen einer Entwicklungsumgebung (z.B. PyCharm oder VSCode)
 - Projekt in der Entwicklungsumgebung öffnen
 - Programm mit "Run"-Button starten
+
+![IDE](HelloWorldScreenPyCharm.PNG)
